@@ -11,7 +11,6 @@
     ...
   ]
 */
-const { c } = require("tar");
 const arrayObjectPegawai = require("./data-customer.json");
 
 function lakukanLooping(arrPegawai) {
